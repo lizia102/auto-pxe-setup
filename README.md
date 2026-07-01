@@ -152,7 +152,6 @@ DHCP 地址池：`192.168.1.101` ~ `192.168.1.200`
 4. `generate_uefi_menu_entries()` — 添加 UEFI TFTP 菜单项
 5. `generate_http_boot_entries()` — 添加 HTTP Boot 菜单项
 
-详见 `.mimocode/skills/add-os-to-pxe-script/SKILL.md`。
 
 ## 常见问题
 
